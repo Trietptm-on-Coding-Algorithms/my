@@ -24,3 +24,6 @@ hi Pmenu ctermbg=darkred guibg=darkcyan
 hi Search term=reverse ctermfg=white ctermbg=darkgray guifg=white guibg=darkgray
 map T :TaskList
 map F :NERDTree
+execute pathogen#infect()
+syntax on
+filetype plugin indent on
