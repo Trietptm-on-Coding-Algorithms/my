@@ -8,7 +8,7 @@ set expandtab
 set laststatus=2
 set nocompatible
 set cursorline
-" set colorcolumn=101
+set colorcolumn=101
 set wrap
 set linebreak
 set nolist
