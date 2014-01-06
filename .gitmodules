@@ -1,0 +1,6 @@
+[submodule "xcode/XVim"]
+	path = xcode/XVim
+	url = https://github.com/JugglerShu/XVim.git
+[submodule "xcode/xcode-themes"]
+	path = xcode/xcode-themes
+	url = https://github.com/tursunovic/xcode-themes.git
