@@ -27,3 +27,4 @@ map F :NERDTree
 execute pathogen#infect()
 syntax on
 filetype plugin indent on
+au BufNewFile,BufRead *.ejs set filetype=html
