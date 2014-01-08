@@ -3,3 +3,4 @@
 npm install -g supervisor
 npm install -g node-inspector
 npm install -g express
+npm install -g n
