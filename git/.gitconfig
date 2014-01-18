@@ -9,3 +9,5 @@
     quotepath = false
 [gui]
     encoding = utf-8
+[push]
+    default = simple
